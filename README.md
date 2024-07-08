@@ -1,5 +1,3 @@
-# LykosReadME
-
 <h1 align="center">
 Lykos Développement !<br />
 <img src="https://komarev.com/ghpvc/?username=LykosDeveloppement" />
